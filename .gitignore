@@ -1,0 +1,16 @@
+# Python bytecode files
+*.pyc
+__pycache__/
+
+# Virtual environment
+venv/
+
+# Django secret key
+*.env
+
+# Database
+db.sqlite3
+
+# Static files
+/static/
+
